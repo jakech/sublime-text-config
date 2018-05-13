@@ -1,0 +1,52 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"Babel Snippets",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CSS Format",
+		"DocBlockr",
+		"EJS",
+		"Elixir",
+		"Emmet",
+		"GitGutter",
+		"Grails",
+		"Gutter Themes for SL",
+		"Handlebars",
+		"HTML Boilerplate",
+		"JavaScriptNext - ES6 Syntax",
+		"Jekyll",
+		"JsPrettier",
+		"LESS",
+		"Liquid",
+		"Naomi",
+		"Oceanic Color Scheme",
+		"Oceanic Next Color Scheme",
+		"Oceanic Next Italic Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PostgreSQL Syntax Highlighting",
+		"Protobuf Syntax Hightlighting",
+		"ReactJS",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter_CatGutterTheme",
+		"Theme - Glacier",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+	]
+}

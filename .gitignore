@@ -1,0 +1,8 @@
+# Ignore everything...
+*
+# ... except preferences
+!.gitignore
+!*.sublime-keymap
+!*.sublime-settings
+!*.tmTheme
+!SublimeLinter/
